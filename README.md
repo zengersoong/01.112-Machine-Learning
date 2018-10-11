@@ -12,3 +12,6 @@ This repository contains all the codes written for Machine Learning 01.112 mod
 4. Stochastic Gradient Descent
 
 ### List of task to fufil for homework 2
+1. Ridge Regression with offset
+2. Clustering
+3. Logistic Regression / Kaggle Competition
