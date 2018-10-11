@@ -1,4 +1,4 @@
-#Done in Collaboration with Chang Jun Qing 1002088 - he forget anotate this
+
 import numpy as np
 import theano
 import theano.tensor as T
