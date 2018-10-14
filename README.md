@@ -1,4 +1,4 @@
-# MachineLearning
+# Machine Learning / NEURAL NETWORKS/ DEEP LEARNING
 This repository contains all the codes written for Machine Learning 01.112 mod
 
 <br>Homework 1 Collaboration with CJQ<br/>
