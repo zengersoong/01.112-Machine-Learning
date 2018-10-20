@@ -21,7 +21,7 @@ This repository contains all the codes written for Machine Learning 01.112 mod
 2. Radial Basis Function RBFs 
 3. Using kernel function RBF for SVMs
 4. List of classes of kernel functions for SVM
-  1. Polnomial
-  2. RBF
-  3. Sigmoide
+  * Polnomial
+  * RBF
+  * Sigmoide
 3. Understanding the effects of Gamma and Optimimization Parameter C on SVM.
