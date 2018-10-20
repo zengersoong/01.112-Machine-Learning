@@ -19,3 +19,4 @@ This repository contains all the codes written for Machine Learning 01.112 mod
 ### List of task to fufil for homework 3
 1. Support Vector Machine using tensorflow
 2. Radial Basis Function RBF
+3. Understanding the effects of Gamma and Optimimization Parameter C
