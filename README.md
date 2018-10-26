@@ -17,14 +17,15 @@ This repository contains all the codes written for Machine Learning 01.112 mod
 3. Logistic Regression / Kaggle Competition
 
 ### List of task to fufil for homework 3 (Upload ETA 25/26 Oct 2018)
-1. Support Vector Machine using tensorflow
-2. Radial Basis Function RBFs 
-3. Using kernel function RBF for SVMs
-4. List of classes of kernel functions for SVM
+1. Non-Negative matrix Factorization using sklearn decomposition NMF
+2. Support Vector Machine using tensorflow
+3. Radial Basis Function RBFs 
+4. Using kernel function RBF for SVMs
+5. List of classes of kernel functions for SVM
   * Polnomial
   * RBF
   * Sigmoide
-3. Understanding the effects of Gamma and Optimimization Parameter C on SVM.
-4. Unsupervised Deep Learning
-5. Sparse Autoencoders
+6. Understanding the effects of Gamma and Optimimization Parameter C on SVM.
+7. Unsupervised Deep Learning
+8. Sparse Autoencoders
 
