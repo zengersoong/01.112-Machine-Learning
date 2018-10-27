@@ -2,7 +2,7 @@
 This repository contains all the codes written for Machine Learning 01.112 mod
 
 <br>Homework 1 Collaboration with CJQ<br/>
-
+## View the ipynb files in respective homework to visualise the data without running*
 
 
 ### List of task to fulfil for homework 1
@@ -16,7 +16,8 @@ This repository contains all the codes written for Machine Learning 01.112 mod
 2. Clustering
 3. Logistic Regression / Kaggle Competition
 
-### List of task to fufil for homework 3 (Upload ETA 25/26 Oct 2018)
+### List of task to fufil for homework 3 
+(Upload ETA 25/26 Oct 2018)
 1. Non-Negative matrix Factorization using sklearn decomposition NMF
 2. Support Vector Machine using tensorflow
 3. Radial Basis Function RBFs 
